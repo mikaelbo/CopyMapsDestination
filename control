@@ -1,0 +1,9 @@
+Package: com.mikaelbo.copymapsdestination
+Name: CopyMapsDestination
+Depends: mobilesubstrate, firmware(>= 10)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Adds an option to copy the destination on Apple Maps when in "directions" mode.
+Maintainer: Mikaelbo
+Author: Mikaelbo
+Section: Tweaks
