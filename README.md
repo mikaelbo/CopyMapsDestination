@@ -1,7 +1,7 @@
 # CopyMapsDestination
-Adds an option to copy the destination on Apple Maps when in "directions" mode. A normal use case for me is opening an address with directions from another app, and needing to quickly extract the destination name. 
+Adds an option to copy the destination on Apple Maps when in "directions mode". A common use case for me is opening an address with directions from another app, and needing to quickly extract the name of the destination. 
 
-Available on iOS 10, and testing on an iPhone 7 plus running iOS 10.1.1.
+Supported for iOS 10, and tested on an iPhone 7 plus running iOS 10.1.1.
 
 <img src="https://cloud.githubusercontent.com/assets/5389084/26188590/ab5fb58e-3bd2-11e7-8cb1-b8bf4109bcd4.PNG" width="216" height="384"/>
 
